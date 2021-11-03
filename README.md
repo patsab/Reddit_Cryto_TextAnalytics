@@ -4,7 +4,7 @@ Note: This project originated as a work of 3 people. The repo only contains work
 
 ## Project
 
-Different subreddits were analysed to consult a fictional 'crypto-startup'. Following anlyzes wer made:  
+Different subreddits were analysed to consult a fictional 'crypto-startup'. Following anlyses were made:  
 * Topic Modeling: What are the most important topics of existing coins?
 * Network Analysis: Which fields are linked together and should be developed with each other in mind?
 
