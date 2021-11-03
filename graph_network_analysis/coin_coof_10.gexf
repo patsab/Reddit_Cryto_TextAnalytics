@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-06-16">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="bitcoin" label="bitcoin" />
+      <node id="ethereum" label="ethereum" />
+      <node id="ripple" label="ripple" />
+      <node id="sec" label="sec" />
+      <node id="monero" label="monero" />
+      <node id="elon musk" label="elon musk" />
+      <node id="dogecoin" label="dogecoin" />
+      <node id="tesla" label="tesla" />
+      <node id="coinbase" label="coinbase" />
+      <node id="microstrategy" label="microstrategy" />
+      <node id="binance" label="binance" />
+      <node id="reddit" label="reddit" />
+      <node id="vitalik" label="vitalik" />
+      <node id="visa" label="visa" />
+      <node id="paypal" label="paypal" />
+      <node id="michael saylor" label="michael saylor" />
+      <node id="kraken" label="kraken" />
+      <node id="satoshi" label="satoshi" />
+      <node id="uniswap" label="uniswap" />
+      <node id="vitalik buterin" label="vitalik buterin" />
+      <node id="brad garlinghouse" label="brad garlinghouse" />
+      <node id="satoshi nakamoto" label="satoshi nakamoto" />
+      <node id="amazon" label="amazon" />
+      <node id="cardano" label="cardano" />
+      <node id="gary gensler" label="gary gensler" />
+      <node id="mark zuckerberg" label="mark zuckerberg" />
+      <node id="google" label="google" />
+      <node id="defi" label="defi" />
+      <node id="gme" label="gme" />
+      <node id="david schwartz" label="david schwartz" />
+    </nodes>
+    <edges>
+      <edge source="bitcoin" target="ethereum" id="0" weight="266" />
+      <edge source="bitcoin" target="monero" id="1" weight="184" />
+      <edge source="bitcoin" target="ripple" id="2" weight="86" />
+      <edge source="bitcoin" target="elon musk" id="3" weight="62" />
+      <edge source="bitcoin" target="dogecoin" id="4" weight="50" />
+      <edge source="bitcoin" target="tesla" id="5" weight="48" />
+      <edge source="bitcoin" target="coinbase" id="6" weight="43" />
+      <edge source="bitcoin" target="sec" id="7" weight="40" />
+      <edge source="bitcoin" target="microstrategy" id="8" weight="25" />
+      <edge source="bitcoin" target="binance" id="9" weight="23" />
+      <edge source="bitcoin" target="paypal" id="10" weight="21" />
+      <edge source="bitcoin" target="reddit" id="11" weight="20" />
+      <edge source="bitcoin" target="michael saylor" id="12" weight="19" />
+      <edge source="bitcoin" target="satoshi" id="13" weight="18" />
+      <edge source="bitcoin" target="satoshi nakamoto" id="14" weight="13" />
+      <edge source="bitcoin" target="amazon" id="15" weight="13" />
+      <edge source="bitcoin" target="cardano" id="16" weight="13" />
+      <edge source="bitcoin" target="visa" id="17" weight="11" />
+      <edge source="bitcoin" target="mark zuckerberg" id="18" weight="11" />
+      <edge source="bitcoin" target="google" id="19" weight="11" />
+      <edge source="bitcoin" target="gme" id="20" weight="11" />
+      <edge source="ethereum" target="ripple" id="21" weight="58" />
+      <edge source="ethereum" target="dogecoin" id="22" weight="36" />
+      <edge source="ethereum" target="coinbase" id="23" weight="29" />
+      <edge source="ethereum" target="monero" id="24" weight="26" />
+      <edge source="ethereum" target="binance" id="25" weight="22" />
+      <edge source="ethereum" target="reddit" id="26" weight="22" />
+      <edge source="ethereum" target="vitalik" id="27" weight="22" />
+      <edge source="ethereum" target="visa" id="28" weight="21" />
+      <edge source="ethereum" target="sec" id="29" weight="18" />
+      <edge source="ethereum" target="elon musk" id="30" weight="18" />
+      <edge source="ethereum" target="uniswap" id="31" weight="17" />
+      <edge source="ethereum" target="vitalik buterin" id="32" weight="16" />
+      <edge source="ethereum" target="cardano" id="33" weight="13" />
+      <edge source="ethereum" target="mark zuckerberg" id="34" weight="12" />
+      <edge source="ethereum" target="defi" id="35" weight="11" />
+      <edge source="ripple" target="sec" id="36" weight="184" />
+      <edge source="ripple" target="dogecoin" id="37" weight="20" />
+      <edge source="ripple" target="brad garlinghouse" id="38" weight="14" />
+      <edge source="ripple" target="coinbase" id="39" weight="14" />
+      <edge source="ripple" target="monero" id="40" weight="11" />
+      <edge source="ripple" target="david schwartz" id="41" weight="11" />
+      <edge source="sec" target="gary gensler" id="42" weight="12" />
+      <edge source="monero" target="kraken" id="43" weight="18" />
+      <edge source="monero" target="dogecoin" id="44" weight="12" />
+      <edge source="elon musk" target="dogecoin" id="45" weight="45" />
+      <edge source="elon musk" target="tesla" id="46" weight="19" />
+      <edge source="coinbase" target="binance" id="47" weight="15" />
+    </edges>
+  </graph>
+</gexf>
